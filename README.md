@@ -42,9 +42,16 @@ Isso me ajuda a consolidar o conhecimento sobre algoritmos enquanto reforço min
 
 ## Estrutura do Repositório
 
-- `src/`: Implementações dos algoritmos em Ruby.  
-- `exercicios/`: Problemas práticos para aplicar os conceitos do livro.  
-- `notas/`: Anotações e insights do processo de aprendizado.  
+```
+
+NOVATEC RUBY/
+├── Capitulo 01/
+├── └──Notação Big O/
+├── └──Pesquisa binária/
+├── Capitolo 02/
+└── README.md
+
+```  
 
 ---
 
@@ -67,7 +74,7 @@ Caso você esteja estudando este livro e queira contribuir:
 ## Referências
 
 - **Livro:** *Entendendo Algoritmos*, de Aditya Bhargava  
-- **Documentação Ruby:** [Ruby Docs](https://ruby-doc.org/)  
+- **Documentação Ruby:** [Ruby Docs](https://github.com/JhonataFerreira95/documention_Ruby)  
 
 ---
 
